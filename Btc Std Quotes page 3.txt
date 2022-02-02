@@ -1,0 +1,80 @@
+✅"Because Nakamoto and Finney are no longer with us, Bitcoin has not had any central authority figure or leader who could dictate its direction or exercise influence over the course of its development."p.252
+
+✅"[Gavin] Andresen has repeatedly tried to increase the size of Bitcoin's blocks, but all his proposals to do so have failed to gain traction with the operators of the nodes." p.252
+
+✅"Bitcoin can be understood as a sovereign piece of code, because there is no authority outside of it that can control its behavior. Only Bitcoin's rules control Bitcoin[...]"p.253
+
+✅"Only Bitcoin's rules control Bitcoin, and the possibility of changing these rules in any substantive way has become extremely impractical as the status-quo bias continues to shape the incentives of everyone involved in the project."p.253
+
+✅"It is the sovereignty of Bitcoin code, backed by proof-of-work, which makes it a genuinely effective solution to the double-spending problem, and a successful digital cash. And it is this trustlessness which other digital currencies cannot replicate."
+p.253
+
+✅"Being fundamentally knock-offs that are very easy to recreate, all altcoins do not have this luxury of real-world demand, and must actively build and increase this demand."p.253
+
+✅"And as long as there is a party with sovereign power over a digital currency, then that currency cannot be understood as a form of digital cash, but rather, a form of intermediated payment - and a very inefficient one at that."p.254
+
+☑️"[...] there is something deeply and fundamentally wrong about a centralized currency that adopts a highly cumbersome and inefficient design whose only advantage is the removal of a single point of failure."p.254
+
+☑️"If the second largest network in terms of processing power can have its blockchain record altered when the transactions do not go in a way that suits the interests of the development team, then the notion that any of the altcoins is truly regulated by processing power is not tenable."p.255
+
+☑️"The concentration of currency holding, processing power, and programming skills in the hands of one group of people who are effectively partners in a venture defeats the entire purpose of employing a blockchain structure."p.255
+
+☑️"No single altcoin has demonstrated anything near Bitcoin's impressive resilience to change, which is down to its truly decentralized nature and the strong incentives for everyone to abide by the status quo consensus rules."p.255
+
+☑️"In reality, after examining this space for years, I have yet to identify a single digital currency that offers any product or service that has any market demand."p.256
+
+☑️"No coin other than Bitcoin can lay a credible claim to being outside the control of anyone else, and as such, the entire point of utilizing the extremely complex structure underpinning Bitcoin is moot."p.256
+
+☑️"Non-Bitcoin digital currencies are, in the aggregate, easy money."p.257
+
+☑️"The only worthwhile additions to Bitcoin's design were done by the competent selfless  volunteer coders who contributed long hours to making the Bitcoin code better."p.257
+
+☑️"The growth of these altcoins cannot be understood outside the context of easy government money looking for easy investment, forming large bubbles in massive malinvestments."p.257
+
+☑️"Bitcoin's mechanism for establishing the authenticity and validity of the ledger is extremely complex and complicated, but it serves an explicit purpose: issuing a currency and moving value online without the need for a trusted third party."p.259
+
+☑️"[...] to remove the need for trust, the processing power to run a simple currency and database software needs to be increased roughly by a factor of 2 trillion."p.260
+
+☑️"Trustless digital cash has so far been the only successful implementation for blockchain technology precisely because it is a clean and simple technological process to operate, leading to its ledger growing relatively slowly over time."p.261
+
+☑️"For the first time since the abolition of the gold standard, Bitcoin has made sound money easily available to anyone in the world who wants it."p.261
+
+☑️"[...] Bitcoin is a system built entirely on cumbersome and expensive verification so it can eliminate the need for any trust or accountability between all parties: it is 100% verification and 0% trust."p.262
+
+☑️"The advantages lie in individual sovereignty over the protocol, censorship-resistance, and immutability of the money supply growth and technical parameters."p.262
+
+☑️"[...] the nature of sound money [...] lies precisely in the fact that no human is able to control it, and hence, a predictable immutable algorithm is uniquely suited for this task."p.263
+
+☑️"[...] the colossal processing power needed to make the Bitcoin network operate eliminates the need for a trusted third party to process payments or determine the supply of money. If the third party remains, then all of that processing power is a pointless waste of electricity."p.263
+
+☑️"A non-Bitcoin blockchain combines the worst of both worlds: the cumbersome structure of the blockchain with the cost and security risk of trusted third parties."p.263
+
+☑️"[...] Nakamoto worked anonymously and only communicated curtly via email for about two years. [Bitcoin] did not need investment, venture capital, conferences, or advertisement."p.264
+
+☑️"Bitcoin has a blockchain not because it allows for faster and cheaper transactions, but because it removes the need to trust in third-party intermediation: transactions are cleared because nodes compete to verify them, yet no node needs to be trusted."p.265
+
+☑️"Transactions will clear if valid, and will not clear if not valid, and there is nothing that regulators can do to overturn the consensus of the network processing power."p.269
+
+☑️"[...] Bitcoin grew around the set of established consensus rules through human action, all other projects grew by active human design and management."p.270
+
+☑️"Bitcoin has earned its reputation as being immutable after years of resisting alteration. No other blockchain project can make such a claim."p.270
+
+☑️"Blockchain technology can best be understood as the conversion of electric power to verifiable undisputed records of ownership and transactions."p.271
+
+☑️"An open decentralized system built on verification by processing power is more secure the more open the system and the larger the number of network members expending processing power on verification."p.271
+
+☑️"The startling thing about this invention was that, contrary to many other previous attempts at setting up a digital cash, it actually worked."Prologue
+
+☑️"Bitcoin can be best understood as distributed software that allows for transfer of value using a currency protected from unexpected inflation without relying on trusted third parties."xvi
+
+☑️"While Bitcoin is a new invention of the digital age, the problems it purports to solve-namely, providing a form of money that is under the full command of its owner and likely to hold its value in the long run-are as old as human society itself."xvi
+
+☑️"Saving and investing for the long run are the key to capital accumulation and the advance of human civilization."xvii
+
+☑️"Money is the information and measurement system of an economy, and sound money is what allows trade, investment and entrepreneurship to proceed on a solid basis, whereas unsound money throws these processes into disarray."xvii
+
+☑️"[...] your first investment should not be in buying bitcoins, but in time spent understanding how to buy, store, and own bitcoins securely."xviii
+
+☑️"There is no alternative to personal responsibility for anyone interested in using this network, and that is the real investment that needs to be made to get into Bitcoin."xviii
+
+☑️"In order to understand Bitcoin, one must first understand money, and to understand money, there is no alternative to the study of the function and history of money."p.1
