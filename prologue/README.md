@@ -1,3 +1,5 @@
+List of quotes from the Prologue
+
 "The startling thing about this invention was that, contrary to many other previous attempts at setting up a digital cash, it actually worked." p.xv
 
 "Bitcoin can be best understood as distributed software that allows for transfer of value using a currency protected from unexpected inflation without relying on trusted third parties." p.xvi
