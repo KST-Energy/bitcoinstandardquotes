@@ -1,4 +1,4 @@
-# bitcoinstandardquotes
+# The Bitcoin Standard - Quotes
 Handpicked citations from Saifedean Ammous' book "The Bitcoin Standard" by KST Energy.
 
 These quotes have been, and are still being, posted on social media account https://twitter.com/BTC_Std_Quotes
