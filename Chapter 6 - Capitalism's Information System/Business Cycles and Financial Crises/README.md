@@ -23,3 +23,13 @@
 "Imagining that central banks can 'prevent,' 'combat,' or 'manage' recessions is as fanciful and misguided as placing pyromaniacs and arsonists in charge of the fire brigade."p.119
 
 "The relative stability of sound money, for which it is selected by the market, allows for the operation of a free market through price discovery and individual decision making."p.119
+
+"From then on[1945], economic depressions became a regular and painful part of the economy, recurring every few years and providing justification for growing government intervention to handle their fallout." p.120
+
+"The fundamental flaw of Friedman and Schwartz's book [The Monetary History of the United States] is typical of modern academic scholarship: it is an elaborate exercise in substituting rigor for logic." p.121
+
+"As wealth disappears, a run on banks is inevitable as banks struggle to meet their obligations. This exposes the problem of having a system of fractional reserve banking—it's a disaster waiting to happen." p.124
+
+"Attempting to avert the recession by pouring more liquidity into it will only exacerbate the distortions which caused the crisis in the first place." p.125
+
+"As Hayek put it: 'The cause of waves of unemployment is not "capitalism" but governments denying enterprise the right to produce good money." p.126
