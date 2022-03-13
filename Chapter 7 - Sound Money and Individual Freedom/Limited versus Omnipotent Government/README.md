@@ -20,3 +20,6 @@
 
 "It is no coincidence that when recounting the most horrific tyrants of history, one finds that every single one of them operated a system of government-issued money which was constantly inflated to finance government operation." p.152
 
+"Unsound money makes government power potentially unlimited, with large consequences to every individual, forcing politics to the center stage of their life and redirecting much of society's energy and resources to the zero-sum game of who gets to rule and how." p.153
+
+"A democracy, republic, or monarchy are all restrained by sound money, allowing most individuals a large degree of freedom in their personal life." p.153
