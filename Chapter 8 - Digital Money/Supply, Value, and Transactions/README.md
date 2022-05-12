@@ -16,3 +16,8 @@
 
 "The expansionary monetary policies of modern fiat economies and economists have never won the market test of adoption freely, but have instead been imposed through government laws[...]." p.184
 
+"The growth in the price is a reflection of the growing use and utility that the network offers its users." p.185
+
+"Bitcoin's volatility derives from the fact that its supply is utterly inflexible and not responsive to demand changes, because it is programmed to grow at a predetermined rate." p.189
+
+"Should Bitcoin's growth stop and stabilize, it would stop attracting high-risk investment flows, and become just a normal monetary asset expected to appreciate slightly every year." p.190
